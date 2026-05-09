@@ -1,0 +1,3 @@
+601,201,1,Panadol-Brufen,Take After Meals
+0,12,Panadol
+6,1,Paracetamol
